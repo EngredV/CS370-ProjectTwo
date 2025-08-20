@@ -28,7 +28,7 @@ I approach a problem as a computer scientist by first breaking down the requirem
 I consider that my ethical responsibilities to the end user and the organization are the following:
 - Bias and fairness – I need to ensure that reinforcement learning models are trained on diverse scenarios in order to prevent bias in its decision-making.
 - Transparency and explainability – I need to ensure that the decisions that the AI makes are understandable to humans. This means that the intelligent agent’s state-action values need to be interpretable so that humans can understand why it makes its choices.
-- User data and privacy – This is one is what the end user tends to worry about the most which of course we need to ensure that data protection is properly set in place. This is an essential and cannot be ignored.
+- User data and privacy – This one is what the end user tends to worry about the most which of course we need to ensure that data protection is properly set in place. This is essential and cannot be ignored.
 - Safety considerations – I need to ensure that reinforcement learning intelligent agents that are used in critical applications such as healthcare or self-driving cars are properly tested out in order to prevent any harmful or unintended behaviors.
 
 Overall, my ethical responsibilities to the end user and the organization falls in that I need to ensure that the AI systems that are built not only benefit society but also minimize its risks.
